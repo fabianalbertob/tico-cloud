@@ -1,9 +1,10 @@
 📌 TAREAS DEL DÍA
 ==================
 
-☐ Revisar estudios de pacientes
-☐ Actualizar historias clínicas
-☐ Llamar a pacientes pendientes
+☐ Compra leche
+☐ Llamad a juan
+☐ Esta vez
+☐ Revisa y mail
 
 ---
 💡 Editá este archivo o usá TICO para agregar tareas
