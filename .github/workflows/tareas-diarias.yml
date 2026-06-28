@@ -3,7 +3,7 @@ name: Tareas Diarias
 on:
   schedule:
     - cron: '0 12 * * *'
-    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
     - cron: '0 20 * * *'
 
 jobs:
